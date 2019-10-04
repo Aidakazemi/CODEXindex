@@ -1,11 +1,13 @@
 Package: CODEXindex
 Type: Package
-Title: What the Package Does (Title Case)
+Title: The CODEX Index: Short and Medium-term (3 to 12 months) Prognosis in Patients Hospitalized for COPD Exacerbations based on <doi:10.1378/chest.13-1328>
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Authors@R: c(
+    person("Aida", "Kazemi", email = "aidakazemi10@gmail.com", role = c("aut", "cph")),
+    person("Amin", "Adibi", email = "adibi@alumni.ubc.ca", role = c("aut", "cre")))
+Maintainer: Amin Adibi <adibi@alumni.ubc.ca>
 Description: Predicting short-term (3 to 12 months) mortality and readmissions in patients hospitalized for a severe acute COPD exacerbation.
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
