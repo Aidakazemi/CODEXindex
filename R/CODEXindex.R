@@ -32,7 +32,7 @@ CODEXindex <- function (age, charlson, FEV1, mMRC, exacerbation) {
     }
 
    if (FEV1 >= 65) {
-     FEV_score = 0
+     FEV1_score = 0
    } else if (FEV1 >= 50 & FEV1 < 65) {
      FEV1_score = 1
    } else if (FEV1 >= 36 & FEV1 < 50) {
