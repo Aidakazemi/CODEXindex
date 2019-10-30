@@ -11,7 +11,7 @@ R package for the CODEX (comorbidity, obstruction, dyspnea, and previous severe 
 You can download the latest development version from GitHub:
 
 ```
-install.packages("CODEXindex")
+install.packages("devtools")
 devtools::install_github("resplab/CODEXindex")
 ```
 
