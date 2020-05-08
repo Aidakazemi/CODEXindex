@@ -1,6 +1,6 @@
-Package: codex
+Package: codexcopd
 Type: Package
-Title: The CODEX (comorbidity, obstruction, dyspnea, and previous severe exacerbations) Index: Short and Medium-term (3 to 12 months) Prognosis in Patients Hospitalized for COPD Exacerbations
+Title: The CODEX (Comorbidity, Obstruction, Dyspnea, and Previous Severe Exacerbations) Index: Short and Medium-Term Prognosis in Patients Hospitalized for COPD Exacerbations
 Version: 0.1.0
 Authors@R: c(
     person("Aida", "Kazemi", email = "aidakazemi10@gmail.com", role = c("aut", "cph")),

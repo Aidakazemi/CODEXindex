@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/resplab/codex.svg?branch=master)](https://travis-ci.org/resplab/codex)
-[![CRAN Status](https://www.r-pkg.org/badges/version/codex)](https://cran.r-project.org/package=codex)
+[![Build Status](https://travis-ci.org/resplab/codexcopd.svg?branch=master)](https://travis-ci.org/resplab/codexcopd)
+[![CRAN Status](https://www.r-pkg.org/badges/version/codexcopd)](https://cran.r-project.org/package=codexcopd)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-## codex
+## codexcopd
 
 R package for the CODEX (comorbidity, obstruction, dyspnea, and previous severe exacerbations) index: Short and Medium-term (3 to 12 months) Prognosis in Patients Hospitalized for COPD Exacerbations described in [https://www.sciencedirect.com/science/article/pii/S0012369215345888](https://www.sciencedirect.com/science/article/pii/S0012369215345888).
 
@@ -12,9 +12,8 @@ You can download the latest development version from GitHub:
 
 ```
 install.packages("remotes")
-remotes::install_github("resplab/codex")
+remotes::install_github("resplab/codexcopd")
 ```
-
 
 ### CODEX Index
 
