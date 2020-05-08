@@ -1,14 +1,13 @@
-Package: CODEXindex
+Package: codex
 Type: Package
-Title: The CODEX (comorbidity, obstruction, dyspnea, and previous severe exacerbations) Index: Short and Medium-term (3 to 12 months) Prognosis in Patients Hospitalized for COPD Exacerbations based on <doi:10.1378/chest.13-1328>
+Title: The CODEX (comorbidity, obstruction, dyspnea, and previous severe exacerbations) Index: Short and Medium-term (3 to 12 months) Prognosis in Patients Hospitalized for COPD Exacerbations
 Version: 0.1.0
 Authors@R: c(
     person("Aida", "Kazemi", email = "aidakazemi10@gmail.com", role = c("aut", "cph")),
     person("Amin", "Adibi", email = "adibi@alumni.ubc.ca", role = c("aut", "cre")))
 Maintainer: Amin Adibi <adibi@alumni.ubc.ca>
-Description: Predicting short-term (3 to 12 months) mortality and readmissions in patients hospitalized for a severe acute COPD exacerbation by CODEX index with possible values range from 0 to 10, with higher scores indicating a greater risk of death. It was a successful predictor of survival and readmission at 3 months and 1 year after hospital discharge for a COPD exacerbation. 
-  
+Description: Short and Medium-term (3 to 12 months) Prognosis in Patients Hospitalized for COPD Exacerbations based on <doi:10.1378/chest.13-1328>.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0

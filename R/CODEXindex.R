@@ -7,12 +7,12 @@
 #' @param exacerbation a number for severe exacerbations of COPD during the previous year (hospitalization or ED consultations)
 #'
 #' @examples
-#' CODEXindex (age = 40,charlson = 8 , FEV1 = 40, mMRC = 3, exacerbation = 2)
-#' CODEXindex (age = 55,charlson = 4 , FEV1 = 40, mMRC = 3, exacerbation = 2)
+#' codex (age = 40,charlson = 8 , FEV1 = 40, mMRC = 3, exacerbation = 2)
+#' codex (age = 55,charlson = 4 , FEV1 = 40, mMRC = 3, exacerbation = 2)
 #'
 #' @source \url{https://www.ncbi.nlm.nih.gov/pubmed/24077342}
 
-CODEXindex <- function (age, charlson, FEV1, mMRC, exacerbation) {
+codex <- function (age, charlson, FEV1, mMRC, exacerbation) {
 
 
   #one extra point for chalrson index per decade of life  over the age of 50 years (right?)
