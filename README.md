@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/resplab/codexcopd.svg?branch=master)](https://travis-ci.org/resplab/codexcopd)
+[![R build status](https://github.com/resplab/codex/workflows/R-CMD-check/badge.svg)](https://github.com/resplab/codex/actions)
 [![CRAN Status](https://www.r-pkg.org/badges/version/codexcopd)](https://cran.r-project.org/package=codexcopd)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
