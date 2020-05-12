@@ -1,12 +1,12 @@
 Package: codexcopd
 Type: Package
-Title: The CODEX (Comorbidity, Obstruction, Dyspnea, and Previous Severe Exacerbations) Index: Short and Medium-Term Prognosis in Patients Hospitalized for COPD Exacerbations
+Title: The CODEX (Comorbidity, Obstruction, Dyspnea, and Previous Severe Exacerbations) Index: Short and Medium-Term Prognosis in Patients Hospitalized for Chronic Obstructive Pulmonary Disease (COPD) Exacerbations
 Version: 0.1.0
 Authors@R: c(
     person("Aida", "Kazemi", email = "aidakazemi10@gmail.com", role = c("aut", "cph")),
     person("Amin", "Adibi", email = "adibi@alumni.ubc.ca", role = c("aut", "cre")))
 Maintainer: Amin Adibi <adibi@alumni.ubc.ca>
-Description: Short and Medium-term (3 to 12 months) Prognosis in Patients Hospitalized for COPD Exacerbations based on <doi:10.1378/chest.13-1328>.
+Description: Predicts 3 to 12 months prognosis in Chronic Obstructive Pulmonary Disease (COPD) patients hospitalized for severe exacerbations, as described in Almagro et al. (2014) <doi:10.1378/chest.13-1328>.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
